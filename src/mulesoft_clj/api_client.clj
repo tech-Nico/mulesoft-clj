@@ -15,7 +15,6 @@
 (defn set-base-url [url]
   (reset! baseURL url))
 
-(def LOGIN "/accounts/login")
 
 (def ARM "/armui/api/v1")
 (def SERVERS (str ARM "/servers"))
