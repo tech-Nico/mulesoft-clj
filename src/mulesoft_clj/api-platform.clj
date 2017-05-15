@@ -1,1 +1,0 @@
-(ns mulesoft-clj.api-platform)
